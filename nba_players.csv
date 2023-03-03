@@ -1,0 +1,401 @@
+1,2,3,4,5
+Nikola Jokic,Team: DEN,Position: BIG,Age: 28,Points: 24.5
+,Field goals made: 9.3,Field goal percentage: 63.2,3-pointers made: 0.8,3-pointer percentage: 40.2
+,Free throw attempts: 6.1,Free throw percentage: 82.6,Offensive rebounds: 2.2,Defensive rebounds: 9.4
+,Assists: 10.0,Turnovers: 3.6,Steals: 1.3,Blocks: 0.7
+Giannis Antetokounmpo,Team: MIL,Position: BIG,Age: 28,Points: 31.3
+,Field goals made: 11.1,Field goal percentage: 53.8,3-pointers made: 0.8,3-pointer percentage: 27.0
+,Free throw attempts: 12.7,Free throw percentage: 64.6,Offensive rebounds: 2.3,Defensive rebounds: 9.7
+,Assists: 5.4,Turnovers: 3.9,Steals: 0.8,Blocks: 0.8
+Luka Doncic,Team: DAL,Position: GUARD,Age: 23,Points: 33.2
+,Field goals made: 11.2,Field goal percentage: 50.5,3-pointers made: 2.7,3-pointer percentage: 34.7
+,Free throw attempts: 11.1,Free throw percentage: 73.4,Offensive rebounds: 0.9,Defensive rebounds: 7.9
+,Assists: 8.2,Turnovers: 3.6,Steals: 1.5,Blocks: 0.5
+Stephen Curry,Team: GSW,Position: GUARD,Age: 34,Points: 29.4
+,Field goals made: 9.8,Field goal percentage: 49.5,3-pointers made: 4.9,3-pointer percentage: 42.7
+,Free throw attempts: 5.4,Free throw percentage: 92.2,Offensive rebounds: 0.6,Defensive rebounds: 5.8
+,Assists: 6.4,Turnovers: 3.2,Steals: 1.0,Blocks: 0.4
+Kevin Durant,Team: PHX,Position: FORWARD,Age: 34,Points: 29.7
+,Field goals made: 10.5,Field goal percentage: 55.9,3-pointers made: 1.8,3-pointer percentage: 37.6
+,Free throw attempts: 7.3,Free throw percentage: 93.4,Offensive rebounds: 0.4,Defensive rebounds: 6.4
+,Assists: 5.3,Turnovers: 3.5,Steals: 0.8,Blocks: 1.5
+Joel Embiid,Team: PHI,Position: BIG,Age: 28,Points: 33.1
+,Field goals made: 11.0,Field goal percentage: 53.1,3-pointers made: 1.1,3-pointer percentage: 34.0
+,Free throw attempts: 11.8,Free throw percentage: 85.8,Offensive rebounds: 1.8,Defensive rebounds: 8.6
+,Assists: 4.1,Turnovers: 3.5,Steals: 1.1,Blocks: 1.6
+Jayson Tatum,Team: BOS,Position: FORWARD,Age: 24,Points: 30.4
+,Field goals made: 9.9,Field goal percentage: 46.1,3-pointers made: 3.3,3-pointer percentage: 35.5
+,Free throw attempts: 8.5,Free throw percentage: 86.4,Offensive rebounds: 1.1,Defensive rebounds: 7.6
+,Assists: 4.6,Turnovers: 2.9,Steals: 1.0,Blocks: 0.8
+LeBron James,Team: LAL,Position: FORWARD,Age: 38,Points: 29.6
+,Field goals made: 11.3,Field goal percentage: 50.3,3-pointers made: 2.2,3-pointer percentage: 31.0
+,Free throw attempts: 6.3,Free throw percentage: 76.0,Offensive rebounds: 1.2,Defensive rebounds: 7.3
+,Assists: 7.0,Turnovers: 3.1,Steals: 0.9,Blocks: 0.5
+Kawhi Leonard,Team: LAC,Position: FORWARD,Age: 31,Points: 22.7
+,Field goals made: 8.3,Field goal percentage: 50.6,3-pointers made: 1.8,3-pointer percentage: 39.6
+,Free throw attempts: 5.0,Free throw percentage: 87.4,Offensive rebounds: 1.2,Defensive rebounds: 4.9
+,Assists: 4.0,Turnovers: 1.5,Steals: 1.4,Blocks: 0.6
+Shai Gilgeous-Alexander,Team: OKC,Position: GUARD,Age: 24,Points: 31.0
+,Field goals made: 10.2,Field goal percentage: 50.7,3-pointers made: 0.9,3-pointer percentage: 33.8
+,Free throw attempts: 10.6,Free throw percentage: 90.8,Offensive rebounds: 0.9,Defensive rebounds: 3.9
+,Assists: 5.7,Turnovers: 2.9,Steals: 1.6,Blocks: 1.1
+Devin Booker,Team: PHX,Position: GUARD,Age: 26,Points: 26.5
+,Field goals made: 9.5,Field goal percentage: 47.4,3-pointers made: 2.2,3-pointer percentage: 35.1
+,Free throw attempts: 6.2,Free throw percentage: 85.3,Offensive rebounds: 0.8,Defensive rebounds: 3.8
+,Assists: 5.6,Turnovers: 2.5,Steals: 0.9,Blocks: 0.4
+Damian Lillard,Team: POR,Position: GUARD,Age: 32,Points: 31.4
+,Field goals made: 9.5,Field goal percentage: 46.7,3-pointers made: 4.2,3-pointer percentage: 37.2
+,Free throw attempts: 9.1,Free throw percentage: 91.6,Offensive rebounds: 0.6,Defensive rebounds: 3.7
+,Assists: 7.3,Turnovers: 3.2,Steals: 0.8,Blocks: 0.3
+Donovan Mitchell,Team: CLE,Position: GUARD,Age: 26,Points: 27.0
+,Field goals made: 9.4,Field goal percentage: 47.6,3-pointers made: 3.6,3-pointer percentage: 38.2
+,Free throw attempts: 5.3,Free throw percentage: 87.6,Offensive rebounds: 0.9,Defensive rebounds: 3.1
+,Assists: 4.8,Turnovers: 2.7,Steals: 1.5,Blocks: 0.4
+Ja Morant,Team: MEM,Position: GUARD,Age: 23,Points: 27.0
+,Field goals made: 9.6,Field goal percentage: 46.3,3-pointers made: 1.6,3-pointer percentage: 31.7
+,Free throw attempts: 8.4,Free throw percentage: 74.1,Offensive rebounds: 1.1,Defensive rebounds: 4.8
+,Assists: 8.1,Turnovers: 3.5,Steals: 1.1,Blocks: 0.3
+Zion Williamson,Team: NOP,Position: BIG,Age: 22,Points: 26.0
+,Field goals made: 9.8,Field goal percentage: 60.8,3-pointers made: 0.2,3-pointer percentage: 36.8
+,Free throw attempts: 8.6,Free throw percentage: 71.4,Offensive rebounds: 2.0,Defensive rebounds: 5.0
+,Assists: 4.6,Turnovers: 3.4,Steals: 1.1,Blocks: 0.6
+Anthony Davis,Team: LAL,Position: BIG,Age: 29,Points: 25.6
+,Field goals made: 9.6,Field goal percentage: 56.2,3-pointers made: 0.4,3-pointer percentage: 25.0
+,Free throw attempts: 7.3,Free throw percentage: 81.7,Offensive rebounds: 3.3,Defensive rebounds: 9.1
+,Assists: 2.5,Turnovers: 2.1,Steals: 1.1,Blocks: 2.0
+Jimmy Butler,Team: MIA,Position: FORWARD,Age: 33,Points: 21.9
+,Field goals made: 7.2,Field goal percentage: 51.5,3-pointers made: 0.5,3-pointer percentage: 31.2
+,Free throw attempts: 8.2,Free throw percentage: 84.7,Offensive rebounds: 2.2,Defensive rebounds: 3.7
+,Assists: 5.0,Turnovers: 1.7,Steals: 1.9,Blocks: 0.3
+Paul George,Team: LAC,Position: FORWARD,Age: 32,Points: 23.5
+,Field goals made: 8.1,Field goal percentage: 46.1,3-pointers made: 3.0,3-pointer percentage: 38.8
+,Free throw attempts: 4.9,Free throw percentage: 86.9,Offensive rebounds: 0.7,Defensive rebounds: 5.5
+,Assists: 5.2,Turnovers: 3.3,Steals: 1.4,Blocks: 0.4
+Tyrese Haliburton,Team: IND,Position: GUARD,Age: 22,Points: 19.8
+,Field goals made: 7.1,Field goal percentage: 48.2,3-pointers made: 2.9,3-pointer percentage: 39.9
+,Free throw attempts: 3.1,Free throw percentage: 86.5,Offensive rebounds: 0.6,Defensive rebounds: 3.0
+,Assists: 10.2,Turnovers: 2.6,Steals: 1.7,Blocks: 0.4
+James Harden,Team: PHI,Position: GUARD,Age: 33,Points: 21.6
+,Field goals made: 6.6,Field goal percentage: 45.2,3-pointers made: 2.9,3-pointer percentage: 39.3
+,Free throw attempts: 6.5,Free throw percentage: 86.4,Offensive rebounds: 0.5,Defensive rebounds: 5.7
+,Assists: 10.7,Turnovers: 3.4,Steals: 1.2,Blocks: 0.6
+Pascal Siakam,Team: TOR,Position: FORWARD,Age: 28,Points: 25.3
+,Field goals made: 9.1,Field goal percentage: 48.0,3-pointers made: 1.4,3-pointer percentage: 34.1
+,Free throw attempts: 7.6,Free throw percentage: 76.7,Offensive rebounds: 1.8,Defensive rebounds: 5.9
+,Assists: 6.1,Turnovers: 2.5,Steals: 0.8,Blocks: 0.6
+Jaylen Brown,Team: BOS,Position: GUARD,Age: 26,Points: 26.5
+,Field goals made: 9.9,Field goal percentage: 48.6,3-pointers made: 2.5,3-pointer percentage: 33.6
+,Free throw attempts: 5.5,Free throw percentage: 77.7,Offensive rebounds: 1.3,Defensive rebounds: 5.8
+,Assists: 3.2,Turnovers: 3.1,Steals: 1.1,Blocks: 0.4
+Domantas Sabonis,Team: SAC,Position: BIG,Age: 26,Points: 18.8
+,Field goals made: 7.1,Field goal percentage: 61.0,3-pointers made: 0.4,3-pointer percentage: 33.8
+,Free throw attempts: 5.5,Free throw percentage: 77.1,Offensive rebounds: 3.0,Defensive rebounds: 9.3
+,Assists: 6.9,Turnovers: 2.9,Steals: 0.9,Blocks: 0.5
+Kyrie Irving,Team: DAL,Position: GUARD,Age: 30,Points: 27.1
+,Field goals made: 9.9,Field goal percentage: 49.2,3-pointers made: 3.3,3-pointer percentage: 38.2
+,Free throw attempts: 4.5,Free throw percentage: 89.6,Offensive rebounds: 1.0,Defensive rebounds: 4.0
+,Assists: 5.4,Turnovers: 2.3,Steals: 1.0,Blocks: 0.8
+Bam Adebayo,Team: MIA,Position: BIG,Age: 25,Points: 21.4
+,Field goals made: 8.5,Field goal percentage: 54.0,3-pointers made: 0.0,3-pointer percentage: 8.3
+,Free throw attempts: 5.5,Free throw percentage: 79.9,Offensive rebounds: 2.6,Defensive rebounds: 7.2
+,Assists: 3.3,Turnovers: 2.5,Steals: 1.2,Blocks: 0.8
+Trae Young,Team: ATL,Position: GUARD,Age: 24,Points: 26.9
+,Field goals made: 8.4,Field goal percentage: 42.8,3-pointers made: 2.2,3-pointer percentage: 32.9
+,Free throw attempts: 8.8,Free throw percentage: 88.7,Offensive rebounds: 0.7,Defensive rebounds: 2.2
+,Assists: 10.2,Turnovers: 4.1,Steals: 1.0,Blocks: 0.2
+De'Aaron Fox,Team: SAC,Position: GUARD,Age: 25,Points: 25.3
+,Field goals made: 9.4,Field goal percentage: 51.4,3-pointers made: 1.6,3-pointer percentage: 33.2
+,Free throw attempts: 6.2,Free throw percentage: 79.0,Offensive rebounds: 0.5,Defensive rebounds: 3.8
+,Assists: 6.2,Turnovers: 2.7,Steals: 1.1,Blocks: 0.3
+Anthony Edwards,Team: MIN,Position: FORWARD,Age: 21,Points: 25.0
+,Field goals made: 9.0,Field goal percentage: 46.3,3-pointers made: 2.7,3-pointer percentage: 36.5
+,Free throw attempts: 5.5,Free throw percentage: 77.9,Offensive rebounds: 0.6,Defensive rebounds: 5.3
+,Assists: 4.5,Turnovers: 3.4,Steals: 1.6,Blocks: 0.6
+Darius Garland,Team: CLE,Position: GUARD,Age: 23,Points: 22.0
+,Field goals made: 7.6,Field goal percentage: 46.7,3-pointers made: 2.5,3-pointer percentage: 41.7
+,Free throw attempts: 4.9,Free throw percentage: 86.6,Offensive rebounds: 0.4,Defensive rebounds: 2.2
+,Assists: 7.8,Turnovers: 2.9,Steals: 1.3,Blocks: 0.1
+Lauri Markkanen,Team: UTA,Position: BIG,Age: 25,Points: 25.2
+,Field goals made: 8.5,Field goal percentage: 51.4,3-pointers made: 3.0,3-pointer percentage: 40.9
+,Free throw attempts: 5.8,Free throw percentage: 88.3,Offensive rebounds: 1.8,Defensive rebounds: 6.7
+,Assists: 1.8,Turnovers: 1.9,Steals: 0.6,Blocks: 0.6
+DeMar DeRozan,Team: CHI,Position: FORWARD,Age: 33,Points: 25.2
+,Field goals made: 9.1,Field goal percentage: 50.6,3-pointers made: 0.5,3-pointer percentage: 30.7
+,Free throw attempts: 7.4,Free throw percentage: 88.2,Offensive rebounds: 0.4,Defensive rebounds: 4.2
+,Assists: 5.1,Turnovers: 2.2,Steals: 1.0,Blocks: 0.5
+Jrue Holiday,Team: MIL,Position: GUARD,Age: 32,Points: 19.5
+,Field goals made: 7.4,Field goal percentage: 46.5,3-pointers made: 2.4,3-pointer percentage: 38.2
+,Free throw attempts: 2.7,Free throw percentage: 86.3,Offensive rebounds: 1.3,Defensive rebounds: 4.0
+,Assists: 7.1,Turnovers: 3.0,Steals: 1.3,Blocks: 0.4
+Julius Randle,Team: NYK,Position: FORWARD,Age: 28,Points: 25.1
+,Field goals made: 8.5,Field goal percentage: 46.4,3-pointers made: 2.8,3-pointer percentage: 34.5
+,Free throw attempts: 6.9,Free throw percentage: 76.0,Offensive rebounds: 2.1,Defensive rebounds: 8.5
+,Assists: 4.1,Turnovers: 2.8,Steals: 0.7,Blocks: 0.3
+Brandon Ingram,Team: NOP,Position: FORWARD,Age: 25,Points: 22.8
+,Field goals made: 8.2,Field goal percentage: 46.0,3-pointers made: 1.7,3-pointer percentage: 41.3
+,Free throw attempts: 5.4,Free throw percentage: 87.9,Offensive rebounds: 0.4,Defensive rebounds: 4.6
+,Assists: 4.7,Turnovers: 3.3,Steals: 0.7,Blocks: 0.5
+Jaren Jackson Jr.,Team: MEM,Position: BIG,Age: 23,Points: 16.7
+,Field goals made: 5.9,Field goal percentage: 49.3,3-pointers made: 1.5,3-pointer percentage: 34.8
+,Free throw attempts: 4.2,Free throw percentage: 78.7,Offensive rebounds: 1.7,Defensive rebounds: 5.0
+,Assists: 0.9,Turnovers: 1.5,Steals: 1.1,Blocks: 3.2
+Desmond Bane,Team: MEM,Position: GUARD,Age: 24,Points: 21.3
+,Field goals made: 7.5,Field goal percentage: 46.3,3-pointers made: 3.0,3-pointer percentage: 41.6
+,Free throw attempts: 3.6,Free throw percentage: 90.4,Offensive rebounds: 0.7,Defensive rebounds: 4.2
+,Assists: 4.1,Turnovers: 2.2,Steals: 1.0,Blocks: 0.4
+Karl-Anthony Towns,Team: MIN,Position: BIG,Age: 27,Points: 20.8
+,Field goals made: 7.3,Field goal percentage: 50.5,3-pointers made: 1.8,3-pointer percentage: 32.5
+,Free throw attempts: 5.0,Free throw percentage: 88.5,Offensive rebounds: 1.7,Defensive rebounds: 6.5
+,Assists: 5.3,Turnovers: 3.1,Steals: 0.8,Blocks: 0.7
+Jarrett Allen,Team: CLE,Position: BIG,Age: 24,Points: 14.7
+,Field goals made: 6.1,Field goal percentage: 65.1,3-pointers made: 0.0,3-pointer percentage: 12.5
+,Free throw attempts: 3.4,Free throw percentage: 72.9,Offensive rebounds: 3.2,Defensive rebounds: 6.7
+,Assists: 1.7,Turnovers: 1.5,Steals: 0.8,Blocks: 1.2
+Evan Mobley,Team: CLE,Position: BIG,Age: 21,Points: 15.9
+,Field goals made: 6.5,Field goal percentage: 55.3,3-pointers made: 0.3,3-pointer percentage: 21.1
+,Free throw attempts: 3.7,Free throw percentage: 69.9,Offensive rebounds: 2.3,Defensive rebounds: 6.5
+,Assists: 2.6,Turnovers: 2.0,Steals: 0.8,Blocks: 1.3
+Jalen Brunson,Team: NYK,Position: GUARD,Age: 26,Points: 23.7
+,Field goals made: 8.5,Field goal percentage: 48.0,3-pointers made: 1.9,3-pointer percentage: 40.7
+,Free throw attempts: 5.8,Free throw percentage: 83.7,Offensive rebounds: 0.6,Defensive rebounds: 3.0
+,Assists: 6.2,Turnovers: 2.0,Steals: 0.9,Blocks: 0.3
+Khris Middleton,Team: MIL,Position: FORWARD,Age: 31,Points: 13.5
+,Field goals made: 4.8,Field goal percentage: 42.4,3-pointers made: 1.4,3-pointer percentage: 29.9
+,Free throw attempts: 2.6,Free throw percentage: 93.5,Offensive rebounds: 0.6,Defensive rebounds: 3.2
+,Assists: 4.0,Turnovers: 2.0,Steals: 0.7,Blocks: 0.2
+Draymond Green,Team: GSW,Position: BIG,Age: 32,Points: 8.1
+,Field goals made: 3.2,Field goal percentage: 51.7,3-pointers made: 0.6,3-pointer percentage: 33.0
+,Free throw attempts: 1.5,Free throw percentage: 70.0,Offensive rebounds: 0.9,Defensive rebounds: 6.5
+,Assists: 6.8,Turnovers: 2.6,Steals: 1.0,Blocks: 0.8
+Jamal Murray,Team: DEN,Position: GUARD,Age: 26,Points: 19.9
+,Field goals made: 7.2,Field goal percentage: 45.3,3-pointers made: 2.4,3-pointer percentage: 38.8
+,Free throw attempts: 3.6,Free throw percentage: 83.0,Offensive rebounds: 0.8,Defensive rebounds: 3.3
+,Assists: 5.8,Turnovers: 2.1,Steals: 1.0,Blocks: 0.2
+Chris Paul,Team: PHX,Position: GUARD,Age: 37,Points: 13.7
+,Field goals made: 4.8,Field goal percentage: 43.0,3-pointers made: 1.6,3-pointer percentage: 37.6
+,Free throw attempts: 3.2,Free throw percentage: 82.0,Offensive rebounds: 0.4,Defensive rebounds: 3.8
+,Assists: 9.0,Turnovers: 2.0,Steals: 1.6,Blocks: 0.5
+LaMelo Ball,Team: CHA,Position: GUARD,Age: 21,Points: 23.4
+,Field goals made: 8.3,Field goal percentage: 40.7,3-pointers made: 3.9,3-pointer percentage: 36.7
+,Free throw attempts: 3.4,Free throw percentage: 85.0,Offensive rebounds: 1.2,Defensive rebounds: 5.2
+,Assists: 8.5,Turnovers: 3.5,Steals: 1.3,Blocks: 0.3
+Andrew Wiggins,Team: GSW,Position: FORWARD,Age: 28,Points: 17.1
+,Field goals made: 6.8,Field goal percentage: 47.3,3-pointers made: 2.4,3-pointer percentage: 39.6
+,Free throw attempts: 1.9,Free throw percentage: 61.1,Offensive rebounds: 1.6,Defensive rebounds: 3.4
+,Assists: 2.3,Turnovers: 1.3,Steals: 1.2,Blocks: 0.8
+Klay Thompson,Team: GSW,Position: GUARD,Age: 33,Points: 21.9
+,Field goals made: 7.8,Field goal percentage: 42.6,3-pointers made: 4.4,3-pointer percentage: 40.8
+,Free throw attempts: 2.1,Free throw percentage: 89.0,Offensive rebounds: 0.7,Defensive rebounds: 3.2
+,Assists: 2.4,Turnovers: 1.7,Steals: 0.7,Blocks: 0.3
+Rudy Gobert,Team: MIN,Position: BIG,Age: 30,Points: 13.4
+,Field goals made: 5.1,Field goal percentage: 67.9,3-pointers made: 0.0,3-pointer percentage: 0.0
+,Free throw attempts: 4.6,Free throw percentage: 67.1,Offensive rebounds: 3.2,Defensive rebounds: 8.4
+,Assists: 0.9,Turnovers: 1.7,Steals: 0.8,Blocks: 1.3
+Mikal Bridges,Team: BKN,Position: FORWARD,Age: 26,Points: 17.6
+,Field goals made: 6.4,Field goal percentage: 46.7,3-pointers made: 1.9,3-pointer percentage: 39.6
+,Free throw attempts: 3.2,Free throw percentage: 89.6,Offensive rebounds: 1.1,Defensive rebounds: 3.4
+,Assists: 3.5,Turnovers: 1.5,Steals: 1.2,Blocks: 0.8
+O.G. Anunoby,Team: TOR,Position: FORWARD,Age: 25,Points: 16.6
+,Field goals made: 6.1,Field goal percentage: 45.4,3-pointers made: 1.9,3-pointer percentage: 35.5
+,Free throw attempts: 2.9,Free throw percentage: 82.5,Offensive rebounds: 1.5,Defensive rebounds: 4.0
+,Assists: 2.0,Turnovers: 2.2,Steals: 2.0,Blocks: 0.8
+Dejounte Murray,Team: ATL,Position: GUARD,Age: 26,Points: 20.8
+,Field goals made: 8.4,Field goal percentage: 46.5,3-pointers made: 2.0,3-pointer percentage: 36.2
+,Free throw attempts: 2.5,Free throw percentage: 83.7,Offensive rebounds: 0.7,Defensive rebounds: 4.9
+,Assists: 6.1,Turnovers: 2.3,Steals: 1.5,Blocks: 0.3
+Aaron Gordon,Team: DEN,Position: FORWARD,Age: 27,Points: 17.3
+,Field goals made: 6.6,Field goal percentage: 58.7,3-pointers made: 1.0,3-pointer percentage: 39.7
+,Free throw attempts: 5.0,Free throw percentage: 62.3,Offensive rebounds: 2.4,Defensive rebounds: 4.4
+,Assists: 2.9,Turnovers: 1.6,Steals: 0.8,Blocks: 0.8
+Jerami Grant,Team: POR,Position: FORWARD,Age: 28,Points: 20.8
+,Field goals made: 7.1,Field goal percentage: 48.4,3-pointers made: 2.3,3-pointer percentage: 40.6
+,Free throw attempts: 5.3,Free throw percentage: 80.6,Offensive rebounds: 0.9,Defensive rebounds: 3.5
+,Assists: 2.3,Turnovers: 1.8,Steals: 0.8,Blocks: 0.8
+Bradley Beal,Team: WAS,Position: GUARD,Age: 29,Points: 22.9
+,Field goals made: 8.7,Field goal percentage: 51.8,3-pointers made: 1.7,3-pointer percentage: 37.2
+,Free throw attempts: 4.4,Free throw percentage: 85.7,Offensive rebounds: 0.8,Defensive rebounds: 2.7
+,Assists: 5.2,Turnovers: 2.8,Steals: 0.9,Blocks: 0.7
+Robert Williams III,Team: BOS,Position: BIG,Age: 25,Points: 8.5
+,Field goals made: 4.0,Field goal percentage: 75.0,3-pointers made: 0.0,3-pointer percentage: 0.0
+,Free throw attempts: 0.9,Free throw percentage: 65.2,Offensive rebounds: 3.2,Defensive rebounds: 5.5
+,Assists: 1.6,Turnovers: 0.9,Steals: 0.5,Blocks: 1.1
+Brook Lopez,Team: MIL,Position: BIG,Age: 34,Points: 14.6
+,Field goals made: 5.6,Field goal percentage: 50.9,3-pointers made: 1.8,3-pointer percentage: 37.5
+,Free throw attempts: 2.1,Free throw percentage: 77.4,Offensive rebounds: 2.0,Defensive rebounds: 4.6
+,Assists: 1.2,Turnovers: 1.4,Steals: 0.5,Blocks: 2.4
+Zach LaVine,Team: CHI,Position: GUARD,Age: 27,Points: 24.1
+,Field goals made: 8.4,Field goal percentage: 46.9,3-pointers made: 2.8,3-pointer percentage: 37.3
+,Free throw attempts: 5.5,Free throw percentage: 83.8,Offensive rebounds: 0.5,Defensive rebounds: 4.4
+,Assists: 4.0,Turnovers: 2.6,Steals: 1.0,Blocks: 0.2
+Kristaps Porzingis,Team: WAS,Position: BIG,Age: 27,Points: 22.8
+,Field goals made: 7.4,Field goal percentage: 48.7,3-pointers made: 2.1,3-pointer percentage: 37.6
+,Free throw attempts: 7.0,Free throw percentage: 84.6,Offensive rebounds: 1.9,Defensive rebounds: 6.7
+,Assists: 2.5,Turnovers: 2.2,Steals: 0.9,Blocks: 1.5
+Nic Claxton,Team: BKN,Position: BIG,Age: 23,Points: 12.7
+,Field goals made: 5.5,Field goal percentage: 71.7,3-pointers made: 0.0,3-pointer percentage: 0.0
+,Free throw attempts: 3.3,Free throw percentage: 50.6,Offensive rebounds: 2.5,Defensive rebounds: 6.5
+,Assists: 1.7,Turnovers: 1.3,Steals: 0.8,Blocks: 2.5
+Myles Turner,Team: IND,Position: BIG,Age: 26,Points: 18.1
+,Field goals made: 6.5,Field goal percentage: 54.5,3-pointers made: 1.7,3-pointer percentage: 40.2
+,Free throw attempts: 4.4,Free throw percentage: 78.7,Offensive rebounds: 1.6,Defensive rebounds: 6.4
+,Assists: 1.3,Turnovers: 1.7,Steals: 0.6,Blocks: 2.3
+Anfernee Simons,Team: POR,Position: GUARD,Age: 23,Points: 21.4
+,Field goals made: 7.6,Field goal percentage: 45.0,3-pointers made: 3.5,3-pointer percentage: 38.1
+,Free throw attempts: 2.9,Free throw percentage: 91.3,Offensive rebounds: 0.3,Defensive rebounds: 2.4
+,Assists: 4.2,Turnovers: 2.2,Steals: 0.7,Blocks: 0.2
+Marcus Smart,Team: BOS,Position: GUARD,Age: 28,Points: 11.2
+,Field goals made: 4.0,Field goal percentage: 42.4,3-pointers made: 1.8,3-pointer percentage: 33.0
+,Free throw attempts: 1.8,Free throw percentage: 76.9,Offensive rebounds: 0.7,Defensive rebounds: 2.8
+,Assists: 7.0,Turnovers: 2.4,Steals: 1.4,Blocks: 0.4
+Michael Porter Jr.,Team: DEN,Position: FORWARD,Age: 24,Points: 16.8
+,Field goals made: 6.1,Field goal percentage: 47.4,3-pointers made: 3.0,3-pointer percentage: 40.6
+,Free throw attempts: 1.9,Free throw percentage: 79.8,Offensive rebounds: 1.0,Defensive rebounds: 4.4
+,Assists: 1.0,Turnovers: 1.1,Steals: 0.7,Blocks: 0.5
+Franz Wagner,Team: ORL,Position: FORWARD,Age: 21,Points: 19.0
+,Field goals made: 6.9,Field goal percentage: 48.6,3-pointers made: 1.7,3-pointer percentage: 36.8
+,Free throw attempts: 4.2,Free throw percentage: 83.3,Offensive rebounds: 0.9,Defensive rebounds: 3.1
+,Assists: 3.5,Turnovers: 2.1,Steals: 0.9,Blocks: 0.2
+CJ McCollum,Team: NOP,Position: GUARD,Age: 31,Points: 21.0
+,Field goals made: 7.9,Field goal percentage: 43.4,3-pointers made: 2.8,3-pointer percentage: 38.2
+,Free throw attempts: 3.1,Free throw percentage: 79.2,Offensive rebounds: 0.8,Defensive rebounds: 3.5
+,Assists: 5.9,Turnovers: 2.6,Steals: 0.9,Blocks: 0.6
+Tyler Herro,Team: MIA,Position: GUARD,Age: 23,Points: 20.7
+,Field goals made: 7.5,Field goal percentage: 43.5,3-pointers made: 3.1,3-pointer percentage: 37.4
+,Free throw attempts: 2.9,Free throw percentage: 92.0,Offensive rebounds: 0.5,Defensive rebounds: 5.3
+,Assists: 4.4,Turnovers: 2.4,Steals: 0.9,Blocks: 0.3
+Fred VanVleet,Team: TOR,Position: GUARD,Age: 29,Points: 19.7
+,Field goals made: 6.4,Field goal percentage: 39.4,3-pointers made: 3.0,3-pointer percentage: 34.4
+,Free throw attempts: 4.3,Free throw percentage: 89.3,Offensive rebounds: 0.5,Defensive rebounds: 3.8
+,Assists: 6.6,Turnovers: 1.9,Steals: 1.6,Blocks: 0.6
+Bojan Bogdanovic,Team: DET,Position: FORWARD,Age: 33,Points: 21.4
+,Field goals made: 7.2,Field goal percentage: 48.7,3-pointers made: 2.4,3-pointer percentage: 40.2
+,Free throw attempts: 5.2,Free throw percentage: 88.3,Offensive rebounds: 0.6,Defensive rebounds: 3.2
+,Assists: 2.6,Turnovers: 2.3,Steals: 0.6,Blocks: 0.1
+Deandre Ayton,Team: PHX,Position: BIG,Age: 24,Points: 18.7
+,Field goals made: 8.1,Field goal percentage: 59.3,3-pointers made: 0.1,3-pointer percentage: 30.4
+,Free throw attempts: 3.1,Free throw percentage: 73.9,Offensive rebounds: 2.8,Defensive rebounds: 7.3
+,Assists: 2.0,Turnovers: 1.9,Steals: 0.6,Blocks: 0.8
+Paolo Banchero,Team: ORL,Position: FORWARD,Age: 20,Points: 19.7
+,Field goals made: 6.4,Field goal percentage: 41.8,3-pointers made: 1.1,3-pointer percentage: 27.7
+,Free throw attempts: 7.5,Free throw percentage: 75.2,Offensive rebounds: 1.2,Defensive rebounds: 5.4
+,Assists: 3.6,Turnovers: 2.7,Steals: 0.9,Blocks: 0.5
+Kevin Huerter,Team: SAC,Position: GUARD,Age: 24,Points: 14.8
+,Field goals made: 5.4,Field goal percentage: 47.9,3-pointers made: 2.6,3-pointer percentage: 39.2
+,Free throw attempts: 1.8,Free throw percentage: 69.9,Offensive rebounds: 0.6,Defensive rebounds: 2.8
+,Assists: 2.9,Turnovers: 1.4,Steals: 1.1,Blocks: 0.3
+Al Horford,Team: BOS,Position: BIG,Age: 36,Points: 9.3
+,Field goals made: 3.5,Field goal percentage: 47.0,3-pointers made: 2.1,3-pointer percentage: 43.0
+,Free throw attempts: 0.4,Free throw percentage: 72.2,Offensive rebounds: 1.2,Defensive rebounds: 5.0
+,Assists: 2.7,Turnovers: 0.6,Steals: 0.5,Blocks: 0.9
+Scottie Barnes,Team: TOR,Position: FORWARD,Age: 21,Points: 15.6
+,Field goals made: 6.0,Field goal percentage: 45.4,3-pointers made: 0.9,3-pointer percentage: 30.2
+,Free throw attempts: 3.4,Free throw percentage: 77.0,Offensive rebounds: 2.3,Defensive rebounds: 4.8
+,Assists: 4.8,Turnovers: 2.1,Steals: 1.0,Blocks: 0.8
+Malcolm Brogdon,Team: BOS,Position: GUARD,Age: 30,Points: 14.7
+,Field goals made: 5.1,Field goal percentage: 48.6,3-pointers made: 2.1,3-pointer percentage: 46.5
+,Free throw attempts: 2.7,Free throw percentage: 88.7,Offensive rebounds: 0.7,Defensive rebounds: 3.6
+,Assists: 3.7,Turnovers: 1.6,Steals: 0.6,Blocks: 0.3
+Kyle Kuzma,Team: WAS,Position: FORWARD,Age: 27,Points: 21.4
+,Field goals made: 8.1,Field goal percentage: 45.1,3-pointers made: 2.6,3-pointer percentage: 33.5
+,Free throw attempts: 3.6,Free throw percentage: 71.9,Offensive rebounds: 0.9,Defensive rebounds: 6.6
+,Assists: 3.9,Turnovers: 3.0,Steals: 0.5,Blocks: 0.5
+Devin Vassell,Team: SAS,Position: GUARD,Age: 22,Points: 19.4
+,Field goals made: 7.1,Field goal percentage: 44.5,3-pointers made: 2.8,3-pointer percentage: 40.4
+,Free throw attempts: 3.0,Free throw percentage: 79.3,Offensive rebounds: 0.2,Defensive rebounds: 3.8
+,Assists: 3.6,Turnovers: 1.6,Steals: 1.2,Blocks: 0.4
+Mike Conley,Team: MIN,Position: GUARD,Age: 35,Points: 10.6
+,Field goals made: 3.5,Field goal percentage: 40.6,3-pointers made: 1.8,3-pointer percentage: 35.6
+,Free throw attempts: 2.1,Free throw percentage: 81.2,Offensive rebounds: 0.4,Defensive rebounds: 2.0
+,Assists: 7.5,Turnovers: 1.7,Steals: 1.0,Blocks: 0.2
+Wendell Carter Jr.,Team: ORL,Position: BIG,Age: 23,Points: 15.1
+,Field goals made: 5.6,Field goal percentage: 51.7,3-pointers made: 1.2,3-pointer percentage: 34.9
+,Free throw attempts: 3.7,Free throw percentage: 73.9,Offensive rebounds: 2.1,Defensive rebounds: 6.5
+,Assists: 2.6,Turnovers: 2.2,Steals: 0.4,Blocks: 0.6
+Keldon Johnson,Team: SAS,Position: FORWARD,Age: 23,Points: 21.8
+,Field goals made: 7.8,Field goal percentage: 44.6,3-pointers made: 2.1,3-pointer percentage: 32.4
+,Free throw attempts: 5.3,Free throw percentage: 77.4,Offensive rebounds: 0.9,Defensive rebounds: 4.0
+,Assists: 2.8,Turnovers: 2.1,Steals: 0.7,Blocks: 0.2
+Tyrese Maxey,Team: PHI,Position: GUARD,Age: 22,Points: 19.4
+,Field goals made: 7.0,Field goal percentage: 45.1,3-pointers made: 2.2,3-pointer percentage: 38.0
+,Free throw attempts: 3.9,Free throw percentage: 81.3,Offensive rebounds: 0.4,Defensive rebounds: 2.4
+,Assists: 3.6,Turnovers: 1.4,Steals: 0.8,Blocks: 0.1
+Josh Giddey,Team: OKC,Position: GUARD,Age: 20,Points: 16.1
+,Field goals made: 7.0,Field goal percentage: 48.0,3-pointers made: 0.9,3-pointer percentage: 30.4
+,Free throw attempts: 1.6,Free throw percentage: 77.5,Offensive rebounds: 2.0,Defensive rebounds: 5.8
+,Assists: 5.8,Turnovers: 3.0,Steals: 0.8,Blocks: 0.5
+Cade Cunningham,Team: DET,Position: GUARD,Age: 21,Points: 19.9
+,Field goals made: 7.8,Field goal percentage: 41.5,3-pointers made: 1.4,3-pointer percentage: 27.9
+,Free throw attempts: 3.6,Free throw percentage: 83.7,Offensive rebounds: 1.0,Defensive rebounds: 5.2
+,Assists: 6.0,Turnovers: 3.3,Steals: 0.8,Blocks: 0.6
+Spencer Dinwiddie,Team: BKN,Position: GUARD,Age: 29,Points: 17.5
+,Field goals made: 5.8,Field goal percentage: 44.8,3-pointers made: 2.5,3-pointer percentage: 39.6
+,Free throw attempts: 4.0,Free throw percentage: 82.5,Offensive rebounds: 0.3,Defensive rebounds: 2.8
+,Assists: 5.3,Turnovers: 1.7,Steals: 0.8,Blocks: 0.3
+Christian Wood,Team: DAL,Position: BIG,Age: 27,Points: 17.7
+,Field goals made: 6.4,Field goal percentage: 52.6,3-pointers made: 1.7,3-pointer percentage: 37.5
+,Free throw attempts: 4.2,Free throw percentage: 76.3,Offensive rebounds: 1.3,Defensive rebounds: 6.7
+,Assists: 1.7,Turnovers: 1.9,Steals: 0.4,Blocks: 1.2
+Clint Capela,Team: ATL,Position: BIG,Age: 28,Points: 12.1
+,Field goals made: 5.5,Field goal percentage: 62.9,3-pointers made: 0.0,3-pointer percentage: 0.0
+,Free throw attempts: 1.8,Free throw percentage: 61.3,Offensive rebounds: 4.2,Defensive rebounds: 7.0
+,Assists: 0.8,Turnovers: 0.8,Steals: 0.7,Blocks: 1.2
+Ivica Zubac,Team: LAC,Position: BIG,Age: 25,Points: 10.2
+,Field goals made: 4.0,Field goal percentage: 61.7,3-pointers made: 0.0,3-pointer percentage: 0.0
+,Free throw attempts: 3.1,Free throw percentage: 69.9,Offensive rebounds: 3.3,Defensive rebounds: 6.8
+,Assists: 1.1,Turnovers: 1.7,Steals: 0.4,Blocks: 1.3
+Alex Caruso,Team: CHI,Position: GUARD,Age: 28,Points: 5.5
+,Field goals made: 1.9,Field goal percentage: 44.5,3-pointers made: 0.8,3-pointer percentage: 37.7
+,Free throw attempts: 1.2,Free throw percentage: 79.3,Offensive rebounds: 0.6,Defensive rebounds: 2.5
+,Assists: 3.2,Turnovers: 1.3,Steals: 1.6,Blocks: 0.7
+Kevon Looney,Team: GSW,Position: BIG,Age: 27,Points: 6.8
+,Field goals made: 2.9,Field goal percentage: 65.9,3-pointers made: 0.0,3-pointer percentage: 0.0
+,Free throw attempts: 1.8,Free throw percentage: 61.0,Offensive rebounds: 3.1,Defensive rebounds: 5.9
+,Assists: 2.5,Turnovers: 0.5,Steals: 0.6,Blocks: 0.6
+Derrick White,Team: BOS,Position: GUARD,Age: 28,Points: 12.0
+,Field goals made: 4.1,Field goal percentage: 45.7,3-pointers made: 1.8,3-pointer percentage: 39.1
+,Free throw attempts: 2.2,Free throw percentage: 85.9,Offensive rebounds: 0.6,Defensive rebounds: 2.7
+,Assists: 3.8,Turnovers: 1.1,Steals: 0.7,Blocks: 0.9
+Norman Powell,Team: LAC,Position: GUARD,Age: 29,Points: 17.2
+,Field goals made: 5.7,Field goal percentage: 48.5,3-pointers made: 2.1,3-pointer percentage: 42.4
+,Free throw attempts: 4.6,Free throw percentage: 80.8,Offensive rebounds: 0.4,Defensive rebounds: 2.6
+,Assists: 1.8,Turnovers: 1.7,Steals: 0.8,Blocks: 0.3
+Jordan Clarkson,Team: UTA,Position: GUARD,Age: 30,Points: 20.9
+,Field goals made: 7.5,Field goal percentage: 44.5,3-pointers made: 2.6,3-pointer percentage: 34.1
+,Free throw attempts: 4.0,Free throw percentage: 81.9,Offensive rebounds: 1.2,Defensive rebounds: 2.9
+,Assists: 4.3,Turnovers: 3.1,Steals: 0.5,Blocks: 0.2
+Alperen Sengun,Team: HOU,Position: BIG,Age: 20,Points: 14.9
+,Field goals made: 5.9,Field goal percentage: 55.5,3-pointers made: 0.2,3-pointer percentage: 33.3
+,Free throw attempts: 4.0,Free throw percentage: 75.3,Offensive rebounds: 3.1,Defensive rebounds: 5.6
+,Assists: 3.7,Turnovers: 2.5,Steals: 0.8,Blocks: 0.9
+Tobias Harris,Team: PHI,Position: FORWARD,Age: 30,Points: 15.5
+,Field goals made: 6.1,Field goal percentage: 49.9,3-pointers made: 1.8,3-pointer percentage: 38.3
+,Free throw attempts: 1.6,Free throw percentage: 85.6,Offensive rebounds: 0.9,Defensive rebounds: 4.9
+,Assists: 2.5,Turnovers: 1.3,Steals: 1.0,Blocks: 0.5
+Cameron Johnson,Team: BKN,Position: FORWARD,Age: 26,Points: 13.8
+,Field goals made: 4.8,Field goal percentage: 45.3,3-pointers made: 2.6,3-pointer percentage: 41.2
+,Free throw attempts: 2.0,Free throw percentage: 79.1,Offensive rebounds: 0.7,Defensive rebounds: 3.0
+,Assists: 1.6,Turnovers: 0.5,Steals: 1.0,Blocks: 0.3
+RJ Barrett,Team: NYK,Position: GUARD,Age: 22,Points: 19.7
+,Field goals made: 6.9,Field goal percentage: 43.1,3-pointers made: 1.8,3-pointer percentage: 33.0
+,Free throw attempts: 5.3,Free throw percentage: 75.2,Offensive rebounds: 0.9,Defensive rebounds: 4.3
+,Assists: 2.8,Turnovers: 2.3,Steals: 0.5,Blocks: 0.2
+Nikola Vucevic,Team: CHI,Position: BIG,Age: 32,Points: 17.8
+,Field goals made: 7.3,Field goal percentage: 51.6,3-pointers made: 1.6,3-pointer percentage: 35.6
+,Free throw attempts: 1.9,Free throw percentage: 81.9,Offensive rebounds: 2.1,Defensive rebounds: 9.4
+,Assists: 3.3,Turnovers: 1.7,Steals: 0.7,Blocks: 0.8
+Jakob Poeltl,Team: TOR,Position: BIG,Age: 27,Points: 12.3
+,Field goals made: 5.3,Field goal percentage: 62.9,3-pointers made: 0.0,3-pointer percentage: 0.0
+,Free throw attempts: 2.9,Free throw percentage: 57.7,Offensive rebounds: 3.4,Defensive rebounds: 5.7
+,Assists: 3.0,Turnovers: 2.0,Steals: 0.9,Blocks: 1.2
+Jaden McDaniels,Team: MIN,Position: FORWARD,Age: 22,Points: 11.4
+,Field goals made: 4.5,Field goal percentage: 51.6,3-pointers made: 1.2,3-pointer percentage: 38.2
+,Free throw attempts: 1.7,Free throw percentage: 73.3,Offensive rebounds: 1.3,Defensive rebounds: 2.6
+,Assists: 2.0,Turnovers: 1.4,Steals: 0.9,Blocks: 1.0
+Dillon Brooks,Team: MEM,Position: FORWARD,Age: 27,Points: 14.6
+,Field goals made: 5.5,Field goal percentage: 39.2,3-pointers made: 1.8,3-pointer percentage: 31.3
+,Free throw attempts: 2.3,Free throw percentage: 79.5,Offensive rebounds: 0.6,Defensive rebounds: 2.6
+,Assists: 2.5,Turnovers: 1.5,Steals: 0.8,Blocks: 0.2
+Nicolas Batum,Team: LAC,Position: FORWARD,Age: 34,Points: 6.2
+,Field goals made: 2.1,Field goal percentage: 41.5,3-pointers made: 1.6,3-pointer percentage: 38.3
+,Free throw attempts: 0.7,Free throw percentage: 65.9,Offensive rebounds: 0.9,Defensive rebounds: 3.4
+,Assists: 1.5,Turnovers: 0.7,Steals: 0.6,Blocks: 0.7
