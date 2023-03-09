@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "title": "An Introduction to Mathematical Statistics and its Applicatons",
+      "author": "Richard L. Larsen, Morris L. Marx",
+      "publication_year": "2018"
+    },
+    {
+      "title": "Time Series and Methods",
+      "author": "Peter J. Brockwell, Richard A. Davis",
+      "publication_year": "1991"
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius, Gregory Hayes(Translator",
+      "publication_year": "2002"
+    }
+  ]
+}
